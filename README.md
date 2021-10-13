@@ -1,8 +1,8 @@
 # Blog
 Personal blog made with React  
 
-node.js version: 12.18.3
-npm version: 6.14.6
+- node.js version: 12.18.3  
+- npm version: 6.14.6  
 
 ## Steps to get into this project
 -   Download the zip project and extract all into a folder (be sure you know where is saved because we are going to come back).
